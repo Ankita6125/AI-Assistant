@@ -1,0 +1,4 @@
+Django
+speechrecognition
+pyttsx3
+pyaudio
